@@ -6,7 +6,7 @@ HTML & CSS Landing page
 
 ## Project demo
 
-- https://joey493.github.io/HTML-CSS-Template-1/
+- https://joey493.github.io/Elzero-Template-1/
 
 ## Resources
 
