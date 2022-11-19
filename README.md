@@ -1,4 +1,4 @@
-# Elzero HTML & CSS template
+# Elzero HTML & CSS 1st template
 
 ## Overview
 
@@ -6,7 +6,7 @@ HTML & CSS Landing page
 
 ## Project demo
 
-- https://joey493.github.io/Elzero-Template-1/
+- https://joey493.github.io/Leon-landing-page/
 
 ## Resources
 
